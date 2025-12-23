@@ -1,5 +1,5 @@
 
-* student
+*+
     * rollno
     * name
     * email
