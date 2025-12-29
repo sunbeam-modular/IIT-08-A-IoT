@@ -5,7 +5,7 @@
 const char *ssid = "SUNBEAM";
 const char *password = "1234567890";
 
-const char *host = "172.18.4.146";
+const char *host = "172.18.4.32";
 const int port = 1883;
 
 WiFiClient wifiClient;
